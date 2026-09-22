@@ -1,4 +1,5 @@
 This mod is created because I found it frustrating everytime I'd open the map if have to zoom out and find myself otherwise ill just be lost.
+
 For those that don't know, in the game Zomboid (which is an open-world-survival game) the player can open an ingame map.
 Currently in the Vanilla/unmodded version of the game when the player opens thier map for the very first time the game autocenters on the player and creates a origin point.
 
