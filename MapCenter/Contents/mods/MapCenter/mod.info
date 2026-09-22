@@ -1,0 +1,9 @@
+id=MapCenter
+name=Center Map
+description=Opening your map now centers on you.
+modversion=1.1
+author=TOYSGUNNER
+versionMin=42.0.0
+poster=preview.png
+icon=icon.png
+url=https://steamcommunity.com/sharedfiles/filedetails/?id=3790912405
