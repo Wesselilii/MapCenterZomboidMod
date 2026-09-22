@@ -7,14 +7,15 @@ So what does this mod do if the game already autocenters?
 
 Well, when you open the map for the second time it no longer centers to the player but instead centers on the last origin point.
 Lets say you open the map at location A, i then play the game for 20 minutes and now i've arrived at location B.
-When i now open up my map it doesnt open on the location where im currenlty at, instead the camera is still all the way at location A.
+When i now open up my map it doesnt open on the location where im currenlty at, instead the camera is still at location A.
 
 This mod doesnt just autcenter the map on the player everytime they open the ingame map, it also allows you to choose what mode you want.
-Like the vanlilla/unmodded experiance? click a button that fiters the autocenter to 'Off mode'
+
+Like the vanlilla/unmodded experiance? click an added button that fiters the autocenter to 'Off mode'
 Want the autocenter enabled? reclick that same button for it to change to 'Center mode'
-But if the player is actively moving it would be nice if the maps camera instead folllows the player.
+But if the player is actively moving (like driving an ingame car) it would be nice if the maps camera instead folllows the player.
 You can enable this too but reclicking that same button again for it to filter to 'Follow mode'
 
-In version 1.2 of this mod that player can now even move the camera around whilst its being followed.
+In version 1.2 of this mod, the player can now even move the camera around whilst its on follow mode.
 If you want to see how this mod works ingame go to: 
 https://www.youtube.com/watch?v=MsCLnyEQr4s
